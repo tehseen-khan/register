@@ -1,0 +1,13 @@
+{
+    "subdomain": "engr",
+    "domain": "thedev.me",
+    "email_or_discord": "chemengrkhan@gmail.com",
+    "github_username": "tehseen-khan",
+    "description": "Hosting a site for engineers",
+    "records": {
+        "A": [
+            "168.138.175.27"
+        ]
+    },
+    "proxied": false
+}
